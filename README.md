@@ -9,6 +9,11 @@ The main source of data was from Twitter.After scraping the top 100 most influen
 
 Key Paper (pdf): Measuring User Influence in Twitter: The Million Follower Fallacy(http://twitter.mpi-sws.org/icwsm2010_fallacy.pdf)
 
+
 Data Scraping Source: https://enitiate.solutions/top-18-african-heads-of-states-on-twitter/
-Data Scraping Source: https://www.atlanticcouncil.org/blogs/africasource/african-leaders-respond-to-coronavirus-on-twitter/#east-africa
+
+
+and  https://www.atlanticcouncil.org/blogs/africasource/african-leaders-respond-to-coronavirus-on-twitter/#east-africa
+
+
 Top 100 most influential users:https://africafreak.com/100-most-influential-twitter-users-in-africa
