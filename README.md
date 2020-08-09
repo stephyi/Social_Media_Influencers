@@ -8,8 +8,8 @@
 
 
 * Key Paper (pdf): Measuring User Influence in Twitter: [The Million Follower Fallacy](http://twitter.mpi-sws.org/icwsm2010_fallacy.pdf)
-* [Data Scraping Source] (https://enitiate.solutions/top-18-african-heads-of-states-on-twitter/)
-* [Africa Source] (https://www.atlanticcouncil.org/blogs/africasource/african-leaders-respond-to-coronavirus-on-twitter/#east-africa)
+* [Data Scraping Source](https://enitiate.solutions/top-18-african-heads-of-states-on-twitter/)
+* [Africa Source](https://www.atlanticcouncil.org/blogs/africasource/african-leaders-respond-to-coronavirus-on-twitter/#east-africa)
 * [Top 100 most influential users](https://africafreak.com/100-most-influential-twitter-users-in-africa)
 
 
